@@ -34,10 +34,10 @@ Given a binary array `nums` and an integer `k`, return the maximum number of con
 
 **Example:**
 
-*Input:* nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
-*Output:* 6
-*Explanation:* [1,1,1,0,0,== **1**,1,1,1,1,**1** ==]
-Bolded numbers were flipped from 0 to 1. The longest subarray is highlighted.
+*Input:* nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2\n
+*Output:* 6\n
+*Explanation:* [1,1,1,0,0,<ins>**1**,1,1,1,1,**1**</ins>]\n
+Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 
 ## Python
 
