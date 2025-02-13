@@ -14,4 +14,4 @@ An array, at core, is a block of contiguous memory within a computer. The actual
 | Random access              | *O(1)*     | *O(1)*             |
 | Checking if element exists | *O(n)*     | *O(n)*             |
 
-[^1]: Appending to the end of a list is (amortized O(1).)[https://en.wikipedia.org/wiki/Amortized_analysis]
+[^1]: Appending to the end of a list is [amortized O(1).](https://en.wikipedia.org/wiki/Amortized_analysis)
